@@ -37,7 +37,7 @@ Antes de rodar a aplicação, você precisa ter instalado:
 ### 🔹 Passo a passo
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/crud-barcos-php.git
+   git clone https://github.com/VitorHugoBelorio/CRUDbasicoPHP.git
    ```
 2. Importe o banco de dados (**provap1**) utilizando o arquivo **banco.sql**
 3. Configure a conexão no arquivo `Database.php` caso necessário
